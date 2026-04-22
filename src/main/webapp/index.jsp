@@ -124,7 +124,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Java Web App Live!</h1>
+            <h1>Java Web App Live made by Vimal Singh!</h1>
             <p>Powered by Jenkins CI/CD Pipeline  Second Practice Run Success! </p>
         </header>
         <div class="content">
